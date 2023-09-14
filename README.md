@@ -1,4 +1,4 @@
-<h1> Olá eu sou Charles👋</h1>
+<h1> Hi, I'm Charles🧑🏻‍💻</h1>
 
 <p style="text-align: justify;">⚡🧑🏻‍💻Full Stack WEB Developer, passionate about technology, I like to always be learning, I like watching movies, series and anime!</p>
 
