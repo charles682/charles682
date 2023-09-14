@@ -5,7 +5,7 @@
 <div>
     <h2>SKILLS</h2>
     <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,next,reactnative,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,next,native,tailwind" />
     </a>
 </div>
 - 🔭 Atualmente estou procurando um trabalhando ...
