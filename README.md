@@ -2,8 +2,6 @@
 
 <p style="text-align: justify;">⚡🧑🏻‍💻Full Stack WEB Developer, passionate about technology, I like to always be learning, I like watching movies, series and anime!</p>
 
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=charles682&show_icons=true&theme=dracula&count_private=true)
 <div>
     <h2>SKILLS</h2>
     <a href="https://skillicons.dev" target="_blank">
